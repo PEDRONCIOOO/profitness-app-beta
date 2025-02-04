@@ -1,5 +1,3 @@
-##THIS IS NOT EVEN THE BEGIN OF THE APP, JUST A SIMPLE SHOWCASE##
-
-
+This is only a showcase, initial stage of the app.
 npm install + npx expo start
 Coded by Pedro Trotta.
